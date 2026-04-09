@@ -1,2 +1,6 @@
-# Revive-Alert-System-Using-Yolov8
-A Revive Alert System using the YOLOv8 algorithm is designed to enhance road safety by monitoring drivers for signs of fatigue. This system utilizes a camera to capture real-time video of the driver, which is then processed using the YOLOv8 object detection algorithm to detect indicators of drowsiness.
+[Final_Report.pdf](https://github.com/sakshamsds/driver-drowsiness-detection/files/11641884/Final_Report.pdf)
+
+Directory Structure:
+ 1. 'initial_implementation' directory contains our code and results from our initial approach using the kaggle dataset.
+ 2. 'revised_implementation' directory contains our code and results from the YOLO approach using the custom dataset that we created.
+ 3. Check the README.MD files in the respective directories for execution steps.
